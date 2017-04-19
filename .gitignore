@@ -97,5 +97,9 @@ ENV/
 # mkdocs documentation
 /site
 
+# User defined ignores
 db/*
 !db/README.md
+
+*.npy
+
